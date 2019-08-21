@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
+title: 소라
+email: chalrysr@naver.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+url: "https://sorachalry.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
