@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sss-bem-vindo"
+title: "Sss bem-vindo"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 category: 'blog'
